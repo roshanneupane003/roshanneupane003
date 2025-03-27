@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a highly motivated **developer** and **tech en
 ## 🚀 **About Me**
 🎓 A lifelong learner exploring cutting-edge technologies to solve real-world problems.  
 💻 Experienced in full-stack development, creating scalable systems, and writing clean, maintainable code.  
-🌱 Currently delving deeper into **full stacjk web development**.  
+🌱 Currently delving deeper into **full stack web development**.  
 🎯 2025 Goals:
 - Mentor and uplift fellow developers in the tech community.
 
