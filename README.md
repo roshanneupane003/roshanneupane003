@@ -30,30 +30,6 @@ Welcome to my GitHub profile! I'm a highly motivated **developer** and **tech en
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
-## 📂 **Highlighted Projects**
-### [**1️⃣ Project Name**](https://github.com/roshanneupane003/united academy)  
-🔹 **Description**: *school project*  
-🔹 **Tech Stack**: React, Nodejs, MongoDB  
-🔹 **Features**:
-- User authentication with JWT.
-- Responsive design for seamless user experience.
-
-### [**2️⃣ Project Name**](https://github.com/roshanneupane003/FWU)  
-🔹 **Description**: *college project work.*  
-🔹 **Tech Stack**: html ,CSS ,tailwind,JS ,Nodejs ,  mongodb
-🔹 **Features**:
-- Built an ML model for college.
-- Deployed via Flask for fast predictions.
-
-### [**3️⃣ Portfolio Website**](https://github.com/roshanneupane003/Portfolio)  
-🔹 A visually appealing portfolio showcasing my skills, achievements, and projects.  
-🔹 Live Demo: [YourWebsiteLink](https://yourwebsite.com/)
-
----
-
-
-
-
 
 ## 🤝 **Let’s Collaborate**
 I’m open to:
